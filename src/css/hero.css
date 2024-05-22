@@ -1,1 +1,5 @@
-
+.hero {
+  background-color: tomato;
+  color: teal;
+  font-size: 30px;
+}
